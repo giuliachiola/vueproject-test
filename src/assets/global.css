@@ -1,0 +1,59 @@
+.c-vue { color: #16a085; }
+.c-vue2 { color: #3498db; }
+
+.test,
+.test2,
+.users,
+.custom-search,
+.punchbag-game,
+.ninjas-list,
+.blog,
+.articles-block {
+  max-width: 80%;
+  padding: 16px;
+  background: #f7f7f7;
+  border: 1px solid #1abc9c;
+  margin: auto;
+}
+
+* {
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+h1 {
+  color: #f7f7f7;
+  background-color: #34495e;
+  padding: 3px;
+}
+
+input {
+  width: 100%;
+  background: #fff;
+  margin-bottom: 4%;
+  border: 1px solid #ccc;
+  padding: 10px 0;
+  color: #555;
+}
+input:focus {
+  box-shadow: 0 0 5px #1abc9c;
+  border: 1px solid #1abc9c;
+}
+
+button {
+  width: 100%;
+  padding: 3%;
+  background: #1abc9c;
+  border-bottom: 2px solid #16a085;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  color: #fff;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.button2 {
+  background: #3498db;
+  border-bottom: 2px solid #2980b9;
+}
+
